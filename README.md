@@ -1,7 +1,3 @@
-# weather-app
-Here's a sample description for a GitHub repository of a weather app:
-
----
 
 # Weather App 🌤️
 
